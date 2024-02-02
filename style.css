@@ -1,0 +1,29 @@
+#aaa{
+  color:greenyellow;
+  background-color:#1E90FF;
+  font-size: 30px;
+  text-align:center;
+/*   background-color:gradient-radial(to bottom ) */
+}
+
+body{
+  background-image:url(https://ucarecdn.com/53107110-dd6c-4e1e-8eee-c38ba47635dc/imageasset.jpeg);
+  background-size:200px 300px;
+  background-repeat:no-repeat;
+  background-position: 550px 0px;
+  
+}
+
+#d1{
+/*   padding-top:20px;
+  padding-right:20px;
+  padding-bottom:20px;
+  padding-left:20px; */
+/*   padding:20px; */
+/*  padding:30px 10px; */
+/*   padding: 10px 250px 20px; */
+}
+#d2{
+
+}
+
